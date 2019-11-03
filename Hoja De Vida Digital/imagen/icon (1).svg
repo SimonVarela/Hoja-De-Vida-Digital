@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<svg width="640" height="480" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg">
+ <!-- Created with SVG-edit - https://github.com/SVG-Edit/svgedit-->
+ <defs>
+  <filter id="svg_1_blur">
+   <feGaussianBlur in="SourceGraphic" stdDeviation="1"/>
+  </filter>
+ </defs>
+ <g class="layer">
+  <title>Layer 1</title>
+  <rect fill="#aad4ff" filter="url(#svg_1_blur)" height="175" id="svg_1" rx="10" ry="10" stroke="#000000" stroke-width="3" width="350" x="145" y="152.5"/>
+  <text fill="#3f3f3f" font-family="Serif" font-size="134" font-weight="bold" id="svg_2" stroke="#000000" stroke-width="0" text-anchor="middle" x="320" xml:space="preserve" y="287">SJVG</text>
+ </g>
+</svg>
